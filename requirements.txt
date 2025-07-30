@@ -1,0 +1,18 @@
+# Работа с PDF
+pymupdf==1.26.3
+
+# Валидация и конфигурация
+pydantic==2.11.7
+pydantic-settings==2.10.1
+
+# Streamlit веб-интерфейс
+streamlit==1.47.1
+
+# Langchain + GigaChat
+langchain-gigachat==0.3.12
+langchain-chroma==0.2.5
+langchain-core==0.3.72
+langchain==0.3.27
+
+# Установка проекта (обычно уже есть)
+setuptools==80.9.0
