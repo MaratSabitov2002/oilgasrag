@@ -140,7 +140,7 @@
 
 Если файл .env находится в другом месте, укажите путь явно:
 ```
-docker run -p 8501:8501 --env-file /полный_путь_к/.env oilgasrag-app
+docker run -p 8501:8501 --env-file /полный_путь_к/.env maratsabitov/oilgasrag-app
 ```
 4. После запуска откройте браузер и перейдите по адресу http://localhost:8501
 
