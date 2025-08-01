@@ -135,7 +135,7 @@
 3. Запуск контейнера
 
 ```bash
-    docker run -p 8501:8501 --env-file .env oilgasrag-app
+    docker run -p 8501:8501 --env-file .env maratsabitov/oilgasrag-app
 ```
 
 Если файл .env находится в другом месте, укажите путь явно:
